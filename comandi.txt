@@ -1,0 +1,7 @@
+dir
+cd
+git stage
+git commit -m "description"
+git push
+git clone <repository>
+git add <name>
