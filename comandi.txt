@@ -1,6 +1,6 @@
 dir
 cd
-git stage
+git stage <name>
 git commit -m "description"
 git push
 git clone <repository>
