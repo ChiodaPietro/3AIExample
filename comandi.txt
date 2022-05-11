@@ -5,3 +5,5 @@ git commit -m "description"
 git push
 git clone <repository>
 git add <name>
+eecho <word> > <full file name> // create a text file with a word insede
+type <full file name> // show me waht's inside
