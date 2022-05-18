@@ -6,5 +6,5 @@ git push
 git clone <repository>
 git add <name>
 mkdir // to create a directory from nothing
-echo <word> > <full file name> // create a text file with a word insede
+echo <full file name> > <word> // create a text file with a word insede
 type <full file name> // show me waht's inside
